@@ -10,4 +10,4 @@ cx_Freeze
 encoding_tools-0.0.3.tar
 
 команда запуска
-MAIN.exe
+MAIN.py
